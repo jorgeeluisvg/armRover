@@ -4,6 +4,7 @@ Arm rover a prototype rover which comes integrated with a robot arm which is con
 ## Authors
 
 - [@jorgeeluisvg](https://www.github.com/jorgeeluisvg)
+- [@fearfulScarab42](https://github.com/fearfulScarab42)
 
 ## Materials 
 
